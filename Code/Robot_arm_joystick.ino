@@ -4,7 +4,7 @@ Servo servo_1;
 Servo servo_2;
 int del = 1000 , ctr=0;
 float x , y;
-
+// adding comments
 void setup() 
 {
 servo_1.attach(2);
